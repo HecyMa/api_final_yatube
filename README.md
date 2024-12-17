@@ -40,10 +40,6 @@ python3 -m pip install --upgrade pip
 ```
 pip install -r requirements.txt
 ```
-Перейти в директорию с manage.py:
-```
-cd yatube_api
-```
 Выполнить миграции:
 ```
 python3 manage.py migrate
