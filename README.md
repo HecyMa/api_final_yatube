@@ -23,7 +23,7 @@ YaTube - web-приложение, реализующее социальную �
 Клонировать репозиторий и перейти в корневую директорию проекта:
 
 ```
-git clone https://github.com/Platser/YaTube-API.git
+git clone https://github.com/HecyMa/api_final_yatube.git
 cd api_final_yatube
 ```
 
